@@ -1,0 +1,1 @@
+scripts to train CNN (nViewNet) to classify meshes based on views of faces in images
